@@ -1,8 +1,11 @@
 {
   "sei-atlantic": {
     "System": {
-      "address": "0xA7BD14F35D771c36501d9EbDFB8e031674F9A687",
-      "startBlock": 137174390
+      "address": "0xf91dCD5f7AF75a072fBC8E760811eCD6D5b3DC84",
+      "startBlock": 137414979
+    },
+    "World": {
+      "address": "0x5fEA06206966088ca5A48Ac698E75d5CBb669439"
     }
   }
 }

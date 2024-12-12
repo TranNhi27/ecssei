@@ -8,9 +8,9 @@ dataSources:
     name: System
     network: sei-atlantic
     source:
-      address: "0xA7BD14F35D771c36501d9EbDFB8e031674F9A687"
+      address: "0xf91dCD5f7AF75a072fBC8E760811eCD6D5b3DC84"
       abi: System
-      startBlock: 137174390
+      startBlock: 137414979
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.7
